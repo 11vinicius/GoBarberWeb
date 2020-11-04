@@ -15,7 +15,7 @@ export default createGlobalStyle`
   }
 
   border-style, input, button{
-    font-family:'Robotos slab', serif;
+    font-family: 'Roboto Slab', serif;
     font-size:16px
   }
 
